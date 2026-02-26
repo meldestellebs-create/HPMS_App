@@ -1,23 +1,13 @@
 {
-  "name": "Bildungswege Baden-Württemberg",
-  "short_name": "Bildungswege", 
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
+  "name": "Bildungswege Baden-Württemberg",
+  "short_name": "Bildungswege",
   "display": "standalone",
-  "background_color": "#ffffff",
   "theme_color": "#003366",
+  "background_color": "#ffffff",
   "icons": [
-    {
-      "src": "./icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "./icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png", 
-      "purpose": "any maskable"
-    }
+    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png"}
   ]
 }
