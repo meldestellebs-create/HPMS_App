@@ -1,0 +1,22 @@
+{
+  "name": "Meldestelle Berufliche Schulen Stuttgart",
+  "short_name": "Meldestelle BS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#003366",
+  "description": "Hinweis- und Meldestelle für berufliche Schulen in Stuttgart.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
