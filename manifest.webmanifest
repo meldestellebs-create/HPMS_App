@@ -1,22 +1,24 @@
 {
-  "name": "Meldestelle Berufliche Schulen Stuttgart",
-  "short_name": "Meldestelle BS",
+  "name": "Bildungswege Baden-Württemberg",
+  "short_name": "Bildungswege",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#003366",
-  "description": "Hinweis- und Meldestelle für berufliche Schulen in Stuttgart.",
+  "description": "Interaktives Tool Bildungswege Baden-Württemberg",
   "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
